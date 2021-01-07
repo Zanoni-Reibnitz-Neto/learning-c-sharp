@@ -7,3 +7,12 @@ C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\Survey\obj\Deb
 C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\Survey\obj\Debug\net471\Survey.csproj.CoreCompileInputs.cache
 C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\Survey\obj\Debug\net471\Survey.exe
 C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\Survey\obj\Debug\net471\Survey.pdb
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\learning-c-sharp\Survey\bin\Debug\net471\Survey.exe.config
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\learning-c-sharp\Survey\bin\Debug\net471\Survey.exe
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\learning-c-sharp\Survey\bin\Debug\net471\Survey.pdb
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\learning-c-sharp\Survey\obj\Debug\net471\Survey.csprojAssemblyReference.cache
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\learning-c-sharp\Survey\obj\Debug\net471\Survey.AssemblyInfoInputs.cache
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\learning-c-sharp\Survey\obj\Debug\net471\Survey.AssemblyInfo.cs
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\learning-c-sharp\Survey\obj\Debug\net471\Survey.csproj.CoreCompileInputs.cache
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\learning-c-sharp\Survey\obj\Debug\net471\Survey.exe
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\learning-c-sharp\Survey\obj\Debug\net471\Survey.pdb
