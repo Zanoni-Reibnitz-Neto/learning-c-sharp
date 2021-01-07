@@ -1,0 +1,9 @@
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\ForLoop\bin\Debug\net471\ForLoop.exe.config
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\ForLoop\bin\Debug\net471\ForLoop.exe
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\ForLoop\bin\Debug\net471\ForLoop.pdb
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\ForLoop\obj\Debug\net471\ForLoop.csprojAssemblyReference.cache
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\ForLoop\obj\Debug\net471\ForLoop.AssemblyInfoInputs.cache
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\ForLoop\obj\Debug\net471\ForLoop.AssemblyInfo.cs
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\ForLoop\obj\Debug\net471\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\ForLoop\obj\Debug\net471\ForLoop.exe
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\ForLoop\obj\Debug\net471\ForLoop.pdb

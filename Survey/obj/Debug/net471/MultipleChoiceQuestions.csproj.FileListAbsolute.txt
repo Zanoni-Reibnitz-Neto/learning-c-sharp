@@ -1,0 +1,9 @@
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\MultipleChoiceQuestions\bin\Debug\net471\MultipleChoiceQuestions.exe.config
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\MultipleChoiceQuestions\bin\Debug\net471\MultipleChoiceQuestions.exe
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\MultipleChoiceQuestions\bin\Debug\net471\MultipleChoiceQuestions.pdb
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\MultipleChoiceQuestions\obj\Debug\net471\MultipleChoiceQuestions.csprojAssemblyReference.cache
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\MultipleChoiceQuestions\obj\Debug\net471\MultipleChoiceQuestions.AssemblyInfoInputs.cache
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\MultipleChoiceQuestions\obj\Debug\net471\MultipleChoiceQuestions.AssemblyInfo.cs
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\MultipleChoiceQuestions\obj\Debug\net471\MultipleChoiceQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\MultipleChoiceQuestions\obj\Debug\net471\MultipleChoiceQuestions.exe
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\MultipleChoiceQuestions\obj\Debug\net471\MultipleChoiceQuestions.pdb

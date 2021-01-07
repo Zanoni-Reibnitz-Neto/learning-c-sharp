@@ -1,0 +1,9 @@
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\SchoolTracker\obj\Debug\net471\SchoolTracker.csprojAssemblyReference.cache
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\SchoolTracker\obj\Debug\net471\SchoolTracker.AssemblyInfoInputs.cache
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\SchoolTracker\obj\Debug\net471\SchoolTracker.AssemblyInfo.cs
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\SchoolTracker\obj\Debug\net471\SchoolTracker.csproj.CoreCompileInputs.cache
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\SchoolTracker\bin\Debug\net471\SchoolTracker.exe.config
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\SchoolTracker\bin\Debug\net471\SchoolTracker.exe
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\SchoolTracker\bin\Debug\net471\SchoolTracker.pdb
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\SchoolTracker\obj\Debug\net471\SchoolTracker.exe
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\SchoolTracker\obj\Debug\net471\SchoolTracker.pdb

@@ -1,0 +1,9 @@
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\HelloWorld\HelloWorld\bin\Debug\net471\HelloWorld.exe.config
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\HelloWorld\HelloWorld\bin\Debug\net471\HelloWorld.exe
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\HelloWorld\HelloWorld\bin\Debug\net471\HelloWorld.pdb
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\HelloWorld\HelloWorld\obj\Debug\net471\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\HelloWorld\HelloWorld\obj\Debug\net471\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\HelloWorld\HelloWorld\obj\Debug\net471\HelloWorld.AssemblyInfo.cs
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\HelloWorld\HelloWorld\obj\Debug\net471\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\HelloWorld\HelloWorld\obj\Debug\net471\HelloWorld.exe
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\HelloWorld\HelloWorld\obj\Debug\net471\HelloWorld.pdb

@@ -1,0 +1,9 @@
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\PassCode\bin\Debug\net471\PassCode.exe.config
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\PassCode\bin\Debug\net471\PassCode.exe
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\PassCode\bin\Debug\net471\PassCode.pdb
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\PassCode\obj\Debug\net471\PassCode.csprojAssemblyReference.cache
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\PassCode\obj\Debug\net471\PassCode.AssemblyInfoInputs.cache
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\PassCode\obj\Debug\net471\PassCode.AssemblyInfo.cs
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\PassCode\obj\Debug\net471\PassCode.csproj.CoreCompileInputs.cache
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\PassCode\obj\Debug\net471\PassCode.exe
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\Learning C#\PassCode\obj\Debug\net471\PassCode.pdb
