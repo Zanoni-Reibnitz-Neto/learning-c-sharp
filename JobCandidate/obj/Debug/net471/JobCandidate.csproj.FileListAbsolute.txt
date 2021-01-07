@@ -1,0 +1,9 @@
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\learning-c-sharp\JobCandidate\bin\Debug\net471\JobCandidate.exe.config
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\learning-c-sharp\JobCandidate\bin\Debug\net471\JobCandidate.exe
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\learning-c-sharp\JobCandidate\bin\Debug\net471\JobCandidate.pdb
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\learning-c-sharp\JobCandidate\obj\Debug\net471\JobCandidate.csprojAssemblyReference.cache
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\learning-c-sharp\JobCandidate\obj\Debug\net471\JobCandidate.AssemblyInfoInputs.cache
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\learning-c-sharp\JobCandidate\obj\Debug\net471\JobCandidate.AssemblyInfo.cs
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\learning-c-sharp\JobCandidate\obj\Debug\net471\JobCandidate.csproj.CoreCompileInputs.cache
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\learning-c-sharp\JobCandidate\obj\Debug\net471\JobCandidate.exe
+C:\Users\Zanon\OneDrive\Documentos\_projects\_courses\learning-c-sharp\JobCandidate\obj\Debug\net471\JobCandidate.pdb
