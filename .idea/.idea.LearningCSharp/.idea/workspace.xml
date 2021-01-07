@@ -1,6 +1,219 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1de9a5fe-e7b9-48f1-a0c6-3a9ccbceb0aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HelloWorld/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HelloWorld/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HelloWorld/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HelloWorld/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HelloWorld/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LearningCSharp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LearningCSharp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.learning-c-sharp.dir/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.learning-c-sharp.dir/.idea/.idea.learning-c-sharp.dir.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.learning-c-sharp.dir/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.learning-c-sharp.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.learning-c-sharp.dir/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.learning-c-sharp.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.learning-c-sharp.dir/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/HelloWorld/DesignTimeBuild/.dtbcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/HelloWorld/v15/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/HelloWorld/v15/Server/sqlite3/db.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/HelloWorld/v15/Server/sqlite3/storage.ide" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/HelloWorld/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/HelloWorld/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop/ForLoop.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop/bin/Debug/net471/ForLoop.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop/bin/Debug/net471/ForLoop.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop/bin/Debug/net471/ForLoop.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop/obj/Debug/net471/.NETFramework,Version=v4.7.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop/obj/Debug/net471/ForLoop.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop/obj/Debug/net471/ForLoop.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop/obj/Debug/net471/ForLoop.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop/obj/Debug/net471/ForLoop.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop/obj/Debug/net471/ForLoop.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop/obj/Debug/net471/ForLoop.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop/obj/Debug/net471/ForLoop.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop/obj/Debug/net471/ForLoop.exe.withSupportedRuntime.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop/obj/Debug/net471/ForLoop.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop/obj/Debug/net471/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop/obj/Debug/net471/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop/obj/Debug/net471/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop/obj/ForLoop.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop/obj/ForLoop.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop/obj/ForLoop.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop/obj/ForLoop.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ForLoop/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/HelloWorld.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/bin/Debug/net471/HelloWorld.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/bin/Debug/net471/HelloWorld.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/bin/Debug/net471/HelloWorld.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/obj/Debug/net471/.NETFramework,Version=v4.7.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/obj/Debug/net471/HelloWorld.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/obj/Debug/net471/HelloWorld.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/obj/Debug/net471/HelloWorld.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/obj/Debug/net471/HelloWorld.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/obj/Debug/net471/HelloWorld.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/obj/Debug/net471/HelloWorld.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/obj/Debug/net471/HelloWorld.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/obj/Debug/net471/HelloWorld.exe.withSupportedRuntime.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/obj/Debug/net471/HelloWorld.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/obj/Debug/net471/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/obj/Debug/net471/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/obj/Debug/net471/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/obj/HelloWorld.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/obj/HelloWorld.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/obj/HelloWorld.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/obj/HelloWorld.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningCSharp.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PassCode/PassCode.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PassCode/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PassCode/bin/Debug/net471/PassCode.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PassCode/bin/Debug/net471/PassCode.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PassCode/bin/Debug/net471/PassCode.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PassCode/obj/Debug/net471/.NETFramework,Version=v4.7.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PassCode/obj/Debug/net471/PassCode.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PassCode/obj/Debug/net471/PassCode.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PassCode/obj/Debug/net471/PassCode.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PassCode/obj/Debug/net471/PassCode.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PassCode/obj/Debug/net471/PassCode.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PassCode/obj/Debug/net471/PassCode.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PassCode/obj/Debug/net471/PassCode.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PassCode/obj/Debug/net471/PassCode.exe.withSupportedRuntime.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PassCode/obj/Debug/net471/PassCode.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PassCode/obj/Debug/net471/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PassCode/obj/Debug/net471/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PassCode/obj/Debug/net471/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PassCode/obj/PassCode.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PassCode/obj/PassCode.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PassCode/obj/PassCode.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PassCode/obj/PassCode.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PassCode/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PassCode/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PassCode/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTracker/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTracker/SchoolTracker.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTracker/bin/Debug/net471/SchoolTracker.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTracker/bin/Debug/net471/SchoolTracker.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTracker/bin/Debug/net471/SchoolTracker.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTracker/obj/Debug/net471/.NETFramework,Version=v4.7.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTracker/obj/Debug/net471/SchoolTracker.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTracker/obj/Debug/net471/SchoolTracker.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTracker/obj/Debug/net471/SchoolTracker.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTracker/obj/Debug/net471/SchoolTracker.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTracker/obj/Debug/net471/SchoolTracker.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTracker/obj/Debug/net471/SchoolTracker.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTracker/obj/Debug/net471/SchoolTracker.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTracker/obj/Debug/net471/SchoolTracker.exe.withSupportedRuntime.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTracker/obj/Debug/net471/SchoolTracker.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTracker/obj/Debug/net471/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTracker/obj/Debug/net471/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTracker/obj/Debug/net471/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTracker/obj/SchoolTracker.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTracker/obj/SchoolTracker.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTracker/obj/SchoolTracker.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTracker/obj/SchoolTracker.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTracker/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTracker/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTracker/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/Survey.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/bin/Debug/net471/Survey.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/bin/Debug/net471/Survey.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/bin/Debug/net471/Survey.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/.NETFramework,Version=v4.7.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/MultipleChoiceQuestion.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/MultipleChoiceQuestion.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/MultipleChoiceQuestion.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/MultipleChoiceQuestion.exe.withSupportedRuntime.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/MultipleChoiceQuestions.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/MultipleChoiceQuestions.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/MultipleChoiceQuestions.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/MultipleChoiceQuestions.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/MultipleChoiceQuestions.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/MultipleChoiceQuestions.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/MultipleChoiceQuestions.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/MultipleChoiceQuestions.exe.withSupportedRuntime.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/MultipleChoiceQuestions.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/Survey.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/Survey.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/Survey.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/Survey.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/Survey.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/Survey.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/Survey.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/Survey.exe.withSupportedRuntime.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/Survey.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Debug/net471/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/MultipleChoiceQuestion.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/MultipleChoiceQuestion.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/MultipleChoiceQuestion.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/MultipleChoiceQuestions.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/MultipleChoiceQuestions.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/MultipleChoiceQuestions.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Survey.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Survey.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Survey.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/Survey.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1migwhmU63lXo3m0Y6qMU12RUjr" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RunManager">
@@ -22,5 +235,58 @@
         <option name="Build" />
       </method>
     </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1de9a5fe-e7b9-48f1-a0c6-3a9ccbceb0aa" name="Default Changelist" comment="" />
+      <created>1609982065670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609982065670</updated>
+      <workItem from="1609982072390" duration="359000" />
+    </task>
+    <task id="LOCAL-00001" summary="1.16">
+      <created>1609982428097</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609982428097</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="1.16" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.16" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="663" y="151" key="RollbackChangesDialog" timestamp="1609982108413">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="663" y="151" key="RollbackChangesDialog/0.0.1920.1050/1920.-849.1080.1920/-1922.-2160.2560.1440@0.0.1920.1050" timestamp="1609982108413" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1609982432350">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.-849.1080.1920/-1922.-2160.2560.1440@0.0.1920.1050" timestamp="1609982432350" />
   </component>
 </project>
