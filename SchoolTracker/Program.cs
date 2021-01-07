@@ -15,11 +15,16 @@ namespace SchoolTracker
             {
                 var newStudent = new Student();
 
-                Console.WriteLine("Student name: "); newStudent.Name = ConsoleInterface.ReadString();
-                Console.WriteLine("Student grade: "); newStudent.Grade = ConsoleInterface.ReadInt();
-                Console.WriteLine("Student birthday: "); newStudent.Birthday = ConsoleInterface.ReadString();
-                Console.WriteLine("Student address: "); newStudent.Address = ConsoleInterface.ReadString();
-                Console.WriteLine("Student phone: "); newStudent.Phone = ConsoleInterface.ReadInt();
+                Console.WriteLine("Student name: ");
+                newStudent.Name = ConsoleInterface.ReadString();
+                Console.WriteLine("Student grade: ");
+                newStudent.Grade = ConsoleInterface.ReadInt();
+                Console.WriteLine("Student birthday: ");
+                newStudent.Birthday = ConsoleInterface.ReadString();
+                Console.WriteLine("Student address: ");
+                newStudent.Address = ConsoleInterface.ReadString();
+                Console.WriteLine("Student phone: ");
+                newStudent.SetPhone(ConsoleInterface.ReadInt());
 
                 students.Add(newStudent);
 
@@ -30,9 +35,15 @@ namespace SchoolTracker
                 }
             }
 
+            var studentNumber = 0;
+
             foreach (var student in students)
             {
-                Console.WriteLine("Name: {0}, Grade: {1}", student.Name, student.Grade);
+                studentNumber += 1;
+                Console.WriteLine(
+                    "Student {0} -> Name: {1}, Grade: {2}, Birthday: {3}, Address: {4}, Phone: {5}",
+                    studentNumber, student.Name, student.Grade, student.Birthday, student.Address, student.GetPhone()
+                );
             }
         }
     }
@@ -43,6 +54,16 @@ namespace SchoolTracker
         public int Grade { get; set; }
         public string Birthday { get; set; }
         public string Address { get; set; }
-        public int Phone { set; get; }
+        private int _phone;
+
+        public void SetPhone(int number)
+        {
+            _phone = number;
+        }
+
+        public int GetPhone()
+        {
+            return _phone;
+        }
     }
 }
