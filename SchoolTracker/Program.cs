@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Linq;
 
 namespace SchoolTracker
 {
@@ -7,13 +6,23 @@ namespace SchoolTracker
     {
         static void Main(string[] args)
         {
-            var studentsGrades = new int[] {32, 12};
+            Console.WriteLine("How many students in your class?");
+            var studentCount = ConsoleInterface.ReadInt();
 
-            studentsGrades[1] = 23;
-            
-            foreach (var grade in studentsGrades)
+            var studentsNames = new string[studentCount];
+            var studentsGrades = new int[studentCount];
+
+            for (int i = 0; i < studentCount; i++)
             {
-                Console.WriteLine(grade);
+                Console.WriteLine("Student name: ");
+                studentsNames[i] = ConsoleInterface.ReadString();
+                Console.WriteLine("Student grade: ");
+                studentsGrades[i] = ConsoleInterface.ReadInt();
+            }
+
+            for (int i = 0; i < studentCount; i++)
+            {
+                Console.WriteLine("Name: {0}, Grade: {1}", studentsNames[i], studentsGrades[i]);
             }
         }
     }
