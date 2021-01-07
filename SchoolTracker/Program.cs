@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace SchoolTracker
+namespace Util
 {
     class Program
     {
@@ -15,23 +15,18 @@ namespace SchoolTracker
             {
                 var newStudent = new Student();
 
-                Console.WriteLine("Student name: ");
-                newStudent.Name = ConsoleInterface.ReadString();
-                Console.WriteLine("Student grade: ");
-                newStudent.Grade = ConsoleInterface.ReadInt();
-                Console.WriteLine("Student birthday: ");
-                newStudent.Birthday = ConsoleInterface.ReadString();
-                Console.WriteLine("Student address: ");
-                newStudent.Address = ConsoleInterface.ReadString();
-                Console.WriteLine("Student phone: ");
-                newStudent.SetPhone(ConsoleInterface.ReadInt());
+                
+                newStudent.Name = Console.AskString("Student name: ");
+                newStudent.Grade = Console.AskInt("Student grade: ");
+                newStudent.Name = Console.AskString("Student birthday: ");
+                newStudent.Name = Console.AskString("Student address: ");
+                newStudent.SetPhone(Console.AskInt("Student phone: "));
 
                 students.Add(newStudent);
                 Student.Count++;
-                Console.WriteLine("Student count {0}", Student.Count);
+                System.Console.WriteLine("Student count {0}", Student.Count);
 
-                Console.WriteLine("Add another? y/n");
-                if (ConsoleInterface.ReadString() != "y")
+                if (Console.AskString("Add another? y/n") != "y")
                 {
                     addStudent = false;
                 }
@@ -42,7 +37,7 @@ namespace SchoolTracker
             foreach (var student in students)
             {
                 studentNumber += 1;
-                Console.WriteLine(
+                System.Console.WriteLine(
                     "Student {0} -> Name: {1}, Grade: {2}, Birthday: {3}, Address: {4}, Phone: {5}",
                     studentNumber, student.Name, student.Grade, student.Birthday, student.Address, student.GetPhone()
                 );
