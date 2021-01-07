@@ -7,7 +7,7 @@ namespace JobCandidate
         static void Main(string[] args)
         {
             Console.WriteLine("How many years of experience do you have!");
-            var years = int.Parse(ConsoleRead());
+            var years = ConsoleRead();
             switch (years)
             {
                 case 0:
@@ -28,16 +28,24 @@ namespace JobCandidate
             }
         }
 
-        private static string ConsoleRead()
+        private static int ConsoleRead()
         {
             var answer = Console.ReadLine();
-            if (answer == "")
+            if (String.IsNullOrEmpty(answer))
             {
                 Console.WriteLine("You didn't type anything, please try again.");
                 return ConsoleRead();
             }
 
-            return answer;
+            try
+            {
+                return int.Parse(answer);
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("Input was not a number, please try again.");
+                return ConsoleRead();
+            }
         }
     }
 }
