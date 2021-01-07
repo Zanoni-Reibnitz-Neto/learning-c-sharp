@@ -18,9 +18,11 @@ namespace Util
                 
                 newStudent.Name = Console.AskString("Student name: ");
                 newStudent.Grade = Console.AskInt("Student grade: ");
-                newStudent.Name = Console.AskString("Student birthday: ");
-                newStudent.Name = Console.AskString("Student address: ");
+                newStudent.Birthday = Console.AskString("Student birthday: ");
+                newStudent.Address = Console.AskString("Student address: ");
                 newStudent.SetPhone(Console.AskInt("Student phone: "));
+                var phone = newStudent.Phone;
+                newStudent.Phone = phone;
 
                 students.Add(newStudent);
                 Student.Count++;
@@ -57,6 +59,7 @@ namespace Util
         public int Phone
         {
             set { _phone = value; }
+            get { return _phone; }
         }
 
         public void SetPhone(int number)
