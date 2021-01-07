@@ -56,6 +56,11 @@ namespace SchoolTracker
         public string Address { get; set; }
         private int _phone;
 
+        public int Phone
+        {
+            set { _phone = value; }
+        }
+
         public void SetPhone(int number)
         {
             _phone = number;
