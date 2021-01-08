@@ -87,6 +87,9 @@ namespace SchoolTracker
                     case School.Harvard:
                         Console.WriteLine($"Exporting {student.Name} to Harvard");
                         break;
+                    default:
+                        Console.WriteLine($"{student.Name} was not exported to any school");
+                        break;
                 }
             }
         }
