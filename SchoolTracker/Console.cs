@@ -20,6 +20,11 @@ namespace Util
         {
             System.Console.WriteLine(question);
         }
+        
+        private static void Ask(int question)
+        {
+            System.Console.WriteLine(question);
+        }
 
         private static string Read()
         {
