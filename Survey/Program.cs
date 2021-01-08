@@ -1,29 +1,35 @@
-﻿using Util;
+﻿using System;
+using SurveyChallenge;
+using Console = Util.Console;
 
 namespace Survey
 {
-    class Program
+    internal static class Program
     {
-        static void Main(string[] args)
+        public static event Action Posted;
+
+        private static void Main(string[] args)
         {
-            var customer = new Customer();
-            customer.Name = Console.AskString("What is your name?");
-            customer.Age = Console.AskInt("How old are you?");
-            customer.BirthMonth = Console.AskString("What month were you born?");
-            System.Console.WriteLine("------------------");
+            var stats = new Stats();
+            Stats.Start();
+            var customer = new Customer
+            {
+                Name = Console.AskString("What is your name?"),
+                Age = Console.AskInt("How old are you?"),
+                BirthMonth = Console.AskString("What month were you born?")
+            };
+            Posted?.Invoke();
             System.Console.WriteLine(customer.Stringify());
         }
 
         private static string ConsoleRead()
         {
-            var answer = System.Console.ReadLine();
-            if (answer == "")
+            while (true)
             {
+                var answer = System.Console.ReadLine();
+                if (!string.IsNullOrWhiteSpace(answer)) return answer;
                 System.Console.WriteLine("You didn't type anything, please try again.");
-                return ConsoleRead();
             }
-
-            return answer;
         }
     }
 

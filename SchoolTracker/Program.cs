@@ -9,6 +9,9 @@ namespace SchoolTracker
 
         private static void Main(string[] args)
         {
+            Logger.Log("Tracker started", priority: 0);
+            var payroll = new Payroll();
+            payroll.PayAll();
             GetStudents();
             var addStudent = true;
             Console.WriteLine("Already imported students: ");
@@ -101,7 +104,7 @@ namespace SchoolTracker
         Harvard,
     }
 
-    internal class Member
+    public class Member
     {
         public string Name { get; set; }
         private string _address;
@@ -154,10 +157,5 @@ namespace SchoolTracker
                    $"Phone: {GetPhone()}, " +
                    $"School: {School}.";
         }
-    }
-
-    internal class Teacher : Member
-    {
-        public string Subject { get; set; }
     }
 }
