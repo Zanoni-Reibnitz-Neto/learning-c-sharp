@@ -2,7 +2,7 @@
 
 namespace Util
 {
-    public class Console
+    public static class Console
     {
         public static string AskString(string question)
         {
@@ -24,9 +24,9 @@ namespace Util
         private static string Read()
         {
             var answer = System.Console.ReadLine();
-            while (String.IsNullOrEmpty(answer))
+            while (string.IsNullOrEmpty(answer))
             {
-                System.Console.WriteLine("You didn't type anything, please try again.");
+                System.Console.WriteLine("You didn't type anything, please try again: ");
                 return Read();
             }
 
@@ -37,11 +37,11 @@ namespace Util
         {
             try
             {
-                return int.Parse(Read());
+                return Math.Abs(int.Parse(Read()));
             }
             catch (Exception exception)
             {
-                System.Console.WriteLine(exception.Message + " It must be a number, please try again.");
+                System.Console.WriteLine(exception.Message + " It must be a number, please try again: ");
                 return ReadInt();
             }
         }
