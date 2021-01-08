@@ -20,7 +20,7 @@ namespace Util
         {
             System.Console.WriteLine(question);
         }
-        
+
         private static void Ask(int question)
         {
             System.Console.WriteLine(question);
@@ -42,13 +42,21 @@ namespace Util
         {
             try
             {
-                return Math.Abs(int.Parse(Read()));
+                return Math.Abs(Read().ToInt());
             }
             catch (Exception exception)
             {
                 System.Console.WriteLine(exception.Message + " It must be a number, please try again: ");
                 return ReadInt();
             }
+        }
+    }
+
+    public static class ExtensionMethods
+    {
+        public static int ToInt(this string value)
+        {
+            return int.Parse(value);
         }
     }
 }
