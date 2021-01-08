@@ -1,4 +1,4 @@
-﻿using System;
+﻿using Util;
 
 namespace Survey
 {
@@ -6,29 +6,53 @@ namespace Survey
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("What is your name?");
-            var name = ConsoleRead();
-            Console.WriteLine("How old are you?");
-            var age = ConsoleRead();
-            Console.WriteLine("What month were you born?");
-            var monthBorn = ConsoleRead();
-
-            Console.WriteLine($"Name: {name} \nAge: {age} \nMonth born: {monthBorn}");
-            if (monthBorn != null && monthBorn.ToLower() == "march")
-            {
-                Console.WriteLine($"You are an Aries");
-            }
+            var customer = new Customer();
+            customer.Name = Console.AskString("What is your name?");
+            customer.Age = Console.AskInt("How old are you?");
+            customer.BirthMonth = Console.AskString("What month were you born?");
+            System.Console.WriteLine("------------------");
+            System.Console.WriteLine(customer.Stringify());
         }
 
         private static string ConsoleRead()
         {
-            var answer = Console.ReadLine();
+            var answer = System.Console.ReadLine();
             if (answer == "")
-            { 
-                Console.WriteLine("You didn't type anything, please try again.");
+            {
+                System.Console.WriteLine("You didn't type anything, please try again.");
                 return ConsoleRead();
             }
+
             return answer;
+        }
+    }
+
+    class Customer
+    {
+        public string Name { get; set; }
+        public int Age { get; set; }
+        public string BirthMonth { get; set; }
+
+        public string Stringify()
+        {
+            var stringValue =
+                $"Your name is: {Name}\n" +
+                $"Your age is: {Age}\n" +
+                $"Your birth month is: {BirthMonth}\n";
+            switch (BirthMonth.ToUpper())
+            {
+                case "MARCH":
+                    stringValue += "You are an Arias.";
+                    break;
+                case "APRIL":
+                    stringValue += "You are a Taurus.";
+                    break;
+                case "MAY":
+                    stringValue += "You are a Gemini.";
+                    break;
+            }
+
+            return stringValue;
         }
     }
 }
