@@ -39,9 +39,9 @@ namespace Util
             {
                 return int.Parse(Read());
             }
-            catch (Exception)
+            catch (Exception exception)
             {
-                System.Console.WriteLine("Input was not a number, please try again.");
+                System.Console.WriteLine(exception.Message + " It must be a number, please try again.");
                 return ReadInt();
             }
         }
