@@ -1,5 +1,6 @@
-﻿using System.Collections.Generic;
-using Util;
+﻿using System;
+using System.Collections.Generic;
+using Console = Util.Console;
 
 namespace SchoolTracker
 {
@@ -16,11 +17,15 @@ namespace SchoolTracker
                 studentNumber += 1;
                 System.Console.WriteLine($"Student {studentNumber} -> {student.Stringify()}");
             }
-            if (Console.AskString("Add another? y/n") != "y") { addStudent = false; }
+            if (Console.AskString("Add another? Y/N").ToUpper() != "Y") { addStudent = false; }
             while (addStudent)
             {
                 var newStudent = new Student();
                 newStudent.Name = Console.AskString("Student name: ");
+                if (newStudent.Name.ToUpper() == "THIS")
+                {
+                    throw new Exception("IS SPARTA!!!");
+                }
                 newStudent.Grade = Console.AskInt("Student grade: ");
                 newStudent.Birthday = Console.AskString("Student birthday: ");
                 newStudent.Address = Console.AskString("Student address: ");
@@ -28,7 +33,7 @@ namespace SchoolTracker
                 students.Add(newStudent);
                 Student.Count++;
                 System.Console.WriteLine("Student count {0}", Student.Count);
-                if (Console.AskString("Add another? y/n") != "y") { addStudent = false; }
+                if (Console.AskString("Add another? Y/N").ToUpper() != "Y") { addStudent = false; }
             }
             studentNumber = 0;
             System.Console.WriteLine("Imported students: ");
