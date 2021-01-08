@@ -54,6 +54,7 @@ namespace SchoolTracker
                 }
             }
 
+            ShowGrade("Jim");
             studentNumber = 0;
             Console.WriteLine("Imported students: ");
             foreach (var student in Students)
@@ -62,7 +63,7 @@ namespace SchoolTracker
                 Console.WriteLine($"Student {studentNumber} -> {student.Stringify()}");
             }
 
-            Exports();
+            ExportStudents();
         }
 
         private static void GetStudents()
@@ -78,7 +79,7 @@ namespace SchoolTracker
             Student.Count++;
         }
 
-        private static void Exports()
+        private static void ExportStudents()
         {
             foreach (var student in Students)
             {
@@ -95,6 +96,12 @@ namespace SchoolTracker
                         break;
                 }
             }
+        }
+
+        private static void ShowGrade(string name)
+        {
+            var found = Students.Find(student => student.Name == name);
+            Console.WriteLine("{0}'s Grade: {1}", found.Name, found.Grade);
         }
     }
 
