@@ -29,8 +29,8 @@ namespace SchoolTracker
 
             while (addStudent)
             {
-                var newStudent = new Student();
-                newStudent.Name = Util.Console.AskString("Student name: ");
+                Logger.Log("Adding new student");
+                var newStudent = new Student {Name = Util.Console.AskString("Student name: ")};
                 if (newStudent.Name.ToUpper() == "THIS")
                 {
                     throw new Exception("IS SPARTA!!!");
@@ -40,11 +40,11 @@ namespace SchoolTracker
                 newStudent.Birthday = Util.Console.AskString("Student birthday: ");
                 newStudent.Address = Util.Console.AskString("Student address: ");
                 newStudent.SetPhone(Util.Console.AskInt("Student phone: "));
-                newStudent.School = (School) (Util.Console.AskInt("School Name (select corresponding number): \n" +
-                                                                  "1: Hogwarts \n" +
-                                                                  "2: Harvard \n" +
-                                                                  "3: MIT"
-                ) - 1);
+                newStudent.School = (School) (Util.Console.AskInt(
+                            "School Name (select corresponding number): \n" +
+                            "1: Hogwarts \n" +
+                            "2: Harvard") - 1
+                    );
                 Students.Add(newStudent);
                 Student.Count++;
                 Console.WriteLine("Student count {0}", Student.Count);
